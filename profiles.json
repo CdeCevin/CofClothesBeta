@@ -1,0 +1,26 @@
+[
+  {
+    "id": 25,
+    "nombre": "Perfil 1",
+    "descripcion": "Descripción 1",
+    "imagen_url": "https://static.wikia.nocookie.net/gatopedia/images/2/2e/El_gatoo.png/revision/latest?cb=20230103150310&path-prefix=es"
+  },
+  {
+    "id": 26,
+    "nombre": "Perfil 2",
+    "descripcion": "Descripción 2",
+    "imagen_url": "https://media.tenor.com/ldNjzyrqeIMAAAAe/gato-meme.png"
+  },
+  {
+    "id": 27,
+    "nombre": "Perfil 3",
+    "descripcion": "Descripción 3",
+    "imagen_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEpg-p-7IAMHVkmfLx-Sj58mHz465_CslFdg&s"
+  },
+  {
+    "id": 28,
+    "nombre": "Perfil 4",
+    "descripcion": "Descripción 4",
+    "imagen_url": "https://i.pinimg.com/236x/05/49/86/05498664d54894f92c6523c50c1eb9e6.jpg"
+  }
+]

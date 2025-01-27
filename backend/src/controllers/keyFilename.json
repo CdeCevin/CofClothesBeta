@@ -1,0 +1,14 @@
+{
+    "type": "service_account",
+    "project_id": "numeric-analogy-446722-k0",
+    "private_key_id": "3f85096544de5e00e662fc0e4b8ffccb687e8ec4",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCcxha0gxc25TYR\nnQjJgcd1fPshG+C9KeMldHGkGyYwQtJaC3ybibeq1KezlTnOLWZSHqK2C/bVDkeq\nWEsyK+EJ5UaxaZVr1Kiru3mfXdTh5zKbKZrSnsAEMxqOo76FluSGuDAp0OlYfuuq\n0GMK7D0eOpo8vhMhzkDFvDAZd7A3n9YUYjOez6nt4Tvbi18D9H/X3mIhYGgLdcuE\nA49wVKbhmlSFrUMxb6SRw0IYX+hg1uCBav5loNDikCD82I/Cq2ZFkYMH2dg7UoYA\nwvG9rzDBUacxto8Kl2k23/3o4hDCvEoPM6HYeP4xZMt8etVmtRLJlLP4oZxMxU7q\n0bOfmLufAgMBAAECggEAHfCmvWqbsFwt60c2OmWSlhl8TGJqlTW+r5SBb3nP3T+l\ntJSlA39VmEZskJtbIskA1YYMRQAb76x+e0XJdpdyrtUenxsu8hz26XUwUQM2eL4S\nqBdV/gtbWHH6DGuxIwoiMqhSamn/Zms2zrRlddyP/4npktgqBzbAoALEnNiCytxq\n8K/Umglyb+B06zoZVCFV9jK1OZfrGamuKDCmIdIFmCQblqBnTyuwcz57exJY9Vhm\ntMixfC1ndBVHQtyWSgYkzEIIM6Gsk6x+9yqBDYMaIkCgVQm0uujasXyKHrAfrxXL\n9qhHMYl1R2Fu+Po/wJRmVdirCKOHyqjqqzC03R8zoQKBgQDWSCjOxlJ445gCNGzL\nQ4DP4dVWziLTHRsnSsyFdJp2JFZaqKrbzfNtQK3ME9xKzE0UkjxUsqclyrcf3Vyf\nbHCeX+QPc4WS8yEdwR7y8XbIf2Eypicxc7fkcvo/u/MBilqY3ftaKP3HhqjqxCZ3\nY25etpTk6E76LUSO7JLk5R2F1QKBgQC7S7ewu2cXfJrHXQPP7BY2Jc0/wzjnc0m1\nnKUdZ6N1LKnCgBFBMIjnu3csreqJ3niyOFZg8pGGaNRvpw4eglG2lcSYhqCujPpK\no2zY6rv5NN/LPD1EyWcNwggIEg1yO5+6Q7SFAoKu1h9RKq6tJvHNJUOykLhnFuXY\nsvzx9BPxowKBgQCJ9XdgeUsLzexGLx6EV3eNX6aM9rZxGWIsD/pRSdtQiOCYCdPH\nJHe/NU8v/vFrrtFJl0UEeukmabcw6sIBWj2/mZkpYYT0MVh24aldXJzPRUN86oB9\nVDVm/aekdQtlSIA/v1teltmdJlOGorbpUrjyfbarEe4XICHtqt6ARAqX6QKBgQC7\nJyMLb4fJOVK0aiaYCrH7M3TQBTSEWnhKCJgZNOlp+dI8L5qOSIBVBsdEFxko4Ow8\nMf1mbJyr8W5tj0GVjOU4DJnhS42ePfMQyBLJAm4IzCPgQnZ6mMHoRn2eCuPyxM+L\n4YGt819Ac2fhxEO9dA/kzRrDgMczA/dyvQ/yedG//wKBgQCLNYYbKci0tY4FiKv/\np1iheZ223giLaNRMtOpnV/iyJd1vROXp+632gc+L9PDV7ihFhxjoTQKdTgMPtIAp\n0/wNDPuddTnhqzajjadcsYZgnr263YnLCNk7B5oG0xf5tD7AtUzygvjzlD1xhDng\nrRYeSXnhRyj7HC36+WHLPlO0Zg==\n-----END PRIVATE KEY-----\n",
+    "client_email": "cofclothes@numeric-analogy-446722-k0.iam.gserviceaccount.com",
+    "client_id": "116149008492717361000",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cofclothes%40numeric-analogy-446722-k0.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+  }
+  
